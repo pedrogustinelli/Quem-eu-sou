@@ -1,2 +1,2 @@
-# Quem eu sou
-Meu primeiro repositório do Git/Github
+# Novato!
+Meu primeiro repositório do Git/Github 
